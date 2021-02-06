@@ -10,7 +10,7 @@ In order to build dmenu you need the Xlib header files.
 
 Installation
 ------------
-Installion is as simple as the following:
+Installation is as simple as the following:
 
     make clean install
 
